@@ -19,7 +19,7 @@ button{
       background-color: red;
       border: 1px   solid white;
       cursor: pointer;
-      transition:opacity 0.15s;
+     
 }
 select{
      width: 200px;
@@ -43,7 +43,7 @@ body{
     background-color: ;
 }
 button:hover{
-    bgcolor:blue;
+    background-color:blue;
 }
 button:action{
     opacity:o.4;
