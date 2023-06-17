@@ -46,7 +46,7 @@ button:hover{
     background-color:blue;
 }
 button:action{
-    opacity:o.4;
+    background-color:green;
 }
     
     
