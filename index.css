@@ -23,17 +23,19 @@ button{
 }
 select{
      width: 200px;
-     background-color:black;
+     background-color:rgb(26,17,16);
+    color:white;
 }
 input{
-    background-color:black;
-    opacity: o.4;
+    background-color:rgb(26,17,16);
+    color:white;
 }
 textarea{
-    background-color: black;
+    background-color: rgb(26,17,16);
+    color:white;
 }
  input-radio{
-    background-color: black;
+    background-color:rgb(26,17,16);
 }
 body{
     overflow-x: hidden;
