@@ -16,10 +16,9 @@ button{
       width: 200px;
       height: 40px;
       color: white;
-      background-color: red;
-      border: 1px   solid white;
+      background-color: grey;
       cursor: pointer;
-    border-radius:30px;
+      border-radius:30px;
      
 }
 select{
